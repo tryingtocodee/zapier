@@ -14,3 +14,5 @@ ZapRunOutBox.init({
     sequelize : sequelize,
     timestamps : true
 })
+
+export default ZapRunOutBox

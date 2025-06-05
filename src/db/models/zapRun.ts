@@ -16,3 +16,5 @@ ZapRun.init({
     sequelize : sequelize,
     timestamps : true 
 })
+
+export default ZapRun
